@@ -1,0 +1,10 @@
+body {
+  background-color:lavenderblush;
+}
+h1 {
+  color:black;
+    text-align : center;
+    font-family: Papyrus;
+    font-size:50px;
+    text-shadow: 4px 2px 2px rgb(112, 204, 204);
+}
